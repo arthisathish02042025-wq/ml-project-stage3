@@ -1,3 +1,4 @@
+Updated the Commands
 Commands:
 Create a folder:
 C:\Arthi>mkdir ml-project
